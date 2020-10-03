@@ -4,6 +4,8 @@
 
 * PoV Hardware source is [here](https://github.com/B45i/Tiny-PoV)
 * Use This app to generate custom charterers
+* Live app can be found [here](https://pov-display-calc.vercel.app/)
+* Play with app source code from browser on [codeSandBox](https://codesandbox.io/s/gracious-cohen-liigt?file=/src/Grid.js:0-1207)
 
 ## CLI Commands
 
