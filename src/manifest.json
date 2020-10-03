@@ -1,0 +1,11 @@
+{
+  "name": "pov-display-calc",
+  "short_name": "pov-display-calc",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#673ab8",
+  "icons": [
+  ]
+}
